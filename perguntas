@@ -1,0 +1,23 @@
+criaCartao(
+    'Matemática',
+    'Qual o valor aproximado de duas casa após a virgula do número de ouro?',
+    '1,61'
+)
+
+criaCartao(
+    'História',
+    'Qual era o lema da Revolução França?',
+    'Liberdade, igualdade e fraternidade!'
+)
+
+criaCartao(
+    'Piada',
+    'Por que o raios de um cilindro é "z" e a sua altura é "a"?',
+    'Porque forma PIZZA'
+)
+
+criaCartao(
+    'Lingua inglesa',
+    'Como se diz "por do sol" em Inglês?',
+    'Por do sol em ingles é sunset'
+)
